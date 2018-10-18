@@ -13,7 +13,7 @@ module.exports = {
         background_color: '#fff952',
         theme_color: '#fff952',
         display: 'minimal-ui',
-        icon: URL('https://i.imgur.com/xFA9RdX.png'), // This path is relative to the root of the site.
+        icon: 'https://i.imgur.com/xFA9RdX.png', // This path is relative to the root of the site.
       },
     },
     'gatsby-plugin-offline',
