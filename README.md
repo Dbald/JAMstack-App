@@ -12,7 +12,7 @@ Kick off your project with this default boilerplate. This barebones starter ship
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.org/docs/gatsby-starters/)._
 
 ## 🚀 Deployed Site
-https://github.com/Dbald/JAMstack-App
+focused-johnson-1add56.netlify.com
 
 ## 🎓 Learning Gatsby
 
